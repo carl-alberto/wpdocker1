@@ -1,4 +1,6 @@
 # custom path for files to override default files
+ls 
+
 custom_path="$GITHUB_WORKSPACE/.github/inspections/vip-go-ci/"
 main_script="/usr/local/bin/main.sh"
 
